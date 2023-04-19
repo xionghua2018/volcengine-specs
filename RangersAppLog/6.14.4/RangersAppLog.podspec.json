@@ -17,7 +17,7 @@
         "DEFINES_MODULE": "YES"
     },
     "source": {
-        "http": "https://hstob-cdn-tos.volccdn.com/volcengine/RangersAppLog/6.14.4/RangersAppLog.framework.tar.xz"
+        "http": "https://static.xiaomahuixing.com/volcengine/RangersAppLog/6.14.4/RangersAppLog.framework.tar.xz"
     },
     "version": "6.14.4",
     "source_files": [

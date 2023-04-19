@@ -14,7 +14,7 @@
         "GCC_PREPROCESSOR_DEFINITIONS": "TTNET_IMPLEMENT_BORINGSSL"
     },
     "source": {
-        "http": "https://hstob-cdn-tos.volccdn.com/volcengine/OneKit/1.4.2/OneKit.framework.tar.xz"
+        "http": "https://static.xiaomahuixing.com/volcengine/OneKit/1.4.2/OneKit.framework.tar.xz"
     },
     "version": "1.4.2",
     "source_files": [

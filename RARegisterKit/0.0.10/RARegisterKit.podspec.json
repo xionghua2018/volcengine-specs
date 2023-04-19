@@ -11,7 +11,7 @@
         "DEFINES_MODULE": "YES"
     },
     "source": {
-        "http": "https://hstob-cdn-tos.volccdn.com/volcengine/RARegisterKit/0.0.10/RARegisterKit.framework.tar.xz"
+        "http": "https://static.xiaomahuixing.com/volcengine/RARegisterKit/0.0.10/RARegisterKit.framework.tar.xz"
     },
     "version": "0.0.10",
     "source_files": [
